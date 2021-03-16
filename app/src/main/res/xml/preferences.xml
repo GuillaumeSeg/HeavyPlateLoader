@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.preference.PreferenceScreen
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <eu.gsegado.heavyplateloader.customs.DropDownPrefCustom
+        android:key="barweight"
+        android:title="@string/settings_barweight"
+        android:entries="@array/bar_weight_array"
+        android:entryValues="@array/bar_weight_values"
+        android:defaultValue="20"
+        android:summary="@string/settings_male_barweight"
+        android:icon="@drawable/kilo"/>
+
+</androidx.preference.PreferenceScreen>

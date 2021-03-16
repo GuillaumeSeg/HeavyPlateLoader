@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bar_weight_array">
+        <item>male olympic bar - 20kg</item>
+        <item>female olympic bar - 15kg</item>
+    </string-array>
+
+    <string-array name="bar_weight_values">
+        <item>20</item>
+        <item>15</item>
+    </string-array>
+</resources>
